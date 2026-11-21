@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <rect width="900" height="600" fill="#10201A"/>
+  <circle cx="780" cy="78" r="210" fill="#17382B"/>
+  <rect x="95" y="95" width="710" height="410" rx="24" fill="#F5F7F2"/>
+  <rect x="95" y="95" width="170" height="410" rx="24" fill="#17382B"/>
+  <rect x="241" y="95" width="24" height="410" fill="#17382B"/>
+  <circle cx="150" cy="151" r="20" fill="#A7F3D0"/>
+  <rect x="129" y="203" width="72" height="8" rx="4" fill="#779486"/>
+  <rect x="129" y="233" width="92" height="8" rx="4" fill="#3B6552"/>
+  <rect x="129" y="263" width="77" height="8" rx="4" fill="#3B6552"/>
+  <rect x="129" y="293" width="86" height="8" rx="4" fill="#3B6552"/>
+  <text x="310" y="154" fill="#17211B" font-family="Arial,sans-serif" font-size="26" font-weight="700">Visão geral</text>
+  <rect x="310" y="181" width="220" height="105" rx="14" fill="#E5F4EB"/>
+  <rect x="552" y="181" width="205" height="105" rx="14" fill="#F1F2ED"/>
+  <text x="332" y="218" fill="#4B6557" font-family="Arial,sans-serif" font-size="14">SALDO TOTAL</text>
+  <text x="332" y="257" fill="#17211B" font-family="Arial,sans-serif" font-size="27" font-weight="700">R$ 8.420</text>
+  <text x="574" y="218" fill="#4B6557" font-family="Arial,sans-serif" font-size="14">ESTE MÊS</text>
+  <text x="574" y="257" fill="#17211B" font-family="Arial,sans-serif" font-size="27" font-weight="700">+ 12,8%</text>
+  <rect x="310" y="311" width="447" height="155" rx="14" fill="#FFF" stroke="#E3E8E2"/>
+  <path d="M344 426 400 389l59 18 64-65 57 29 80-53 62 32" stroke="#2B9569" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path d="M344 442h381M344 405h381M344 368h381" stroke="#E8ECE7" stroke-width="2"/>
+</svg>

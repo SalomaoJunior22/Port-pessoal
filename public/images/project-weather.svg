@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <rect width="900" height="600" fill="#D6E6E0"/>
+  <circle cx="735" cy="142" r="175" fill="#C6DED4"/>
+  <rect x="190" y="61" width="520" height="478" rx="42" fill="#F9FBF8"/>
+  <rect x="206" y="77" width="488" height="446" rx="30" fill="#EEF5F0"/>
+  <text x="254" y="136" fill="#536A5D" font-family="Arial,sans-serif" font-size="16">TERÇA-FEIRA, 18 DE JUNHO</text>
+  <text x="254" y="183" fill="#1D382B" font-family="Arial,sans-serif" font-size="28" font-weight="700">Pinheiros, São Paulo</text>
+  <circle cx="450" cy="288" r="54" fill="#F4C969"/>
+  <path d="M475 290c0-27 22-49 49-49 22 0 41 15 47 35 22 0 40 18 40 40s-18 39-40 39H467c-19 0-35-15-35-34 0-17 13-31 30-33 3 0 8 0 13 2Z" fill="#D9E7DF"/>
+  <text x="343" y="374" fill="#1D382B" font-family="Arial,sans-serif" font-size="76" font-weight="700">24°</text>
+  <text x="419" y="405" fill="#61776A" font-family="Arial,sans-serif" font-size="18">parcialmente nublado</text>
+  <rect x="255" y="437" width="390" height="1" fill="#D8E3DC"/>
+  <text x="278" y="477" fill="#61776A" font-family="Arial,sans-serif" font-size="16">Sensação  26°</text>
+  <text x="472" y="477" fill="#61776A" font-family="Arial,sans-serif" font-size="16">Umidade  68%</text>
+</svg>

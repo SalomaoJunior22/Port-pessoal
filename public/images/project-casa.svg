@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" fill="none">
+  <rect width="900" height="600" fill="#E8E1D4"/>
+  <rect x="69" y="65" width="762" height="470" rx="20" fill="#F7F4ED"/>
+  <text x="110" y="124" fill="#31382F" font-family="Georgia,serif" font-size="30">casa forma</text>
+  <text x="619" y="121" fill="#555C51" font-family="Arial,sans-serif" font-size="13">COLEÇÃO  /  SOBRE  /  CARRINHO</text>
+  <rect x="109" y="155" width="682" height="322" rx="12" fill="#D6C7AF"/>
+  <rect x="109" y="155" width="682" height="322" rx="12" fill="#B5C0AF"/>
+  <rect x="109" y="155" width="275" height="322" rx="12" fill="#E5DED0"/>
+  <rect x="384" y="155" width="407" height="322" fill="#B8C0AE"/>
+  <rect x="196" y="316" width="178" height="122" rx="13" fill="#A66547"/>
+  <rect x="218" y="294" width="135" height="94" rx="54" fill="#C68B6D"/>
+  <path d="M249 438v29m73-29v29" stroke="#544C3E" stroke-width="9"/>
+  <path d="M572 378V250m0 54c-51-28-67-58-54-87 34 8 55 38 54 87Zm4-17c8-57 32-85 68-86 4 35-18 66-68 86Z" fill="#5B735B"/>
+  <path d="M548 379h52l-7 54h-38l-7-54Z" fill="#A66547"/>
+  <text x="435" y="228" fill="#29372E" font-family="Georgia,serif" font-size="28">Objetos que contam</text>
+  <text x="435" y="263" fill="#29372E" font-family="Georgia,serif" font-size="28">histórias.</text>
+</svg>
