@@ -8,17 +8,17 @@ export type Education = {
 
 export const education: Education[] = [
   {
-    institution: "Sua instituição de ensino",
-    course: "Análise e Desenvolvimento de Sistemas",
-    period: "2022 — 2024",
+    institution: "Universidade Ceuma",
+    course: "Engenharia de Software",
+    period: "2026 — 2031",
     description:
       "Formação em desenvolvimento de software, fundamentos de programação, banco de dados e engenharia de sistemas.",
-    status: "Concluído",
+    status: "Em andamento",
   },
   {
     institution: "Cursos e estudos independentes",
     course: "Desenvolvimento Front-end",
-    period: "2021 — presente",
+    period: "2026 — presente",
     description:
       "Aprendizado contínuo em React, TypeScript, acessibilidade e arquitetura de interfaces web.",
     status: "Em andamento",

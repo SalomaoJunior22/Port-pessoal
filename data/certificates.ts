@@ -9,11 +9,11 @@ export const certificates: Certificate[] = [
   {
     name: "Fundamentos de React e TypeScript",
     issuer: "Plataforma de cursos online",
-    date: "2024",
+    date: "2026",
   },
   {
     name: "Acessibilidade para produtos digitais",
     issuer: "Plataforma de cursos online",
-    date: "2023",
+    date: "2026",
   },
 ];

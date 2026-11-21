@@ -1,13 +1,13 @@
 export const hobbies = [
   {
     icon: "BookOpen",
-    name: "Leitura",
-    description: "Ideias novas começam com uma boa página virada.",
+    name: "Jogos",
+    description: "Jogos sao relaxantes e tops.",
   },
   {
     icon: "Coffee",
-    name: "Café sem pressa",
-    description: "Meu ritual favorito para organizar pensamentos.",
+    name: "Musica",
+    description: "Nao vivo sem musica, musica é vida.",
   },
   {
     icon: "Camera",
@@ -16,7 +16,7 @@ export const hobbies = [
   },
   {
     icon: "Trees",
-    name: "Ar livre",
-    description: "Uma caminhada sempre ajuda a destravar ideias.",
+    name: "Canto",
+    description: "Nasci cantando, cantar me traz paz.",
   },
 ];
